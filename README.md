@@ -19,19 +19,6 @@ This repository contains my manual testing work for the **Mahfill App**, includi
 
 ---
 
-## 📂 Repository Structure
-```
-
-Mahfill-App-Testing/
-│── TestScenarios/
-│    └── Mahfill_Test_Scenarios.xlsx
-│── TestCases/
-│    └── Mahfill_Test_Cases.xlsx
-│── BugReports/
-│    └── Mahfill_Bug_Report.xlsx
-│── README.md
-
-```
 
 ---
 
